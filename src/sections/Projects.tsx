@@ -1,6 +1,6 @@
-import CodeCaffeine from "@/assets/images/code-caffeine.png";
-import IPhone from "@/assets/images/iphone.png";
-import TaskmasterPro from "@/assets/images/taskmaster-pro.png";
+import datathon from "@/assets/images/datathon.png";
+import hpc from "@/assets/images/hpc.png";
+import chatbot from "@/assets/images/chatbot.png";
 import Image from "next/image";
 import CheckCircleIcon from "@/assets/icons/check-circle.svg";
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
@@ -13,36 +13,36 @@ const portfolioProjects = [
     year: "2024",
     title: "Vehicle image detection",
     results: [
-      { title: "Empowered 500+ developers with code sharing" },
-      { title: "Increased user engagement by 60%" },
-      { title: "Enhanced platform performance" },
+      { title: "Real-Time Vehicle Detection & Classification for Smart Traffic Monitoring" },
+      { title: "Built an AI system using OpenCV to detect and classify vehicles in real-time." },
+      { title: "Achieved 90%+ accuracy and received recognition at the Datathon competition." },
     ],
     link: "https://github.com/ItsYash4u/Dathathon-AI-Confluence-IITG",
-    image: CodeCaffeine,
+    image: datathon,
   },
   {
     company: "Hyper Supercomputing",
     year: "2025",
     title: "Deep Flow HPC",
     results: [
-      { title: "Implemented sleek UI inspired by iOS design" },
-      { title: "Enhanced loading speed by 40%" },
-      { title: "Seamless performance on all devices" },
+      { title: "High-Performance Computing Pipeline for Large-Scale AI Workloads" },
+      { title: "Developed a parallel HPC pipeline using MPI and OpenMP." },
+      { title: "Boosting data processing and model training speed by ~5000x." },
     ],
     link: "https://github.com/ItsYash4u/DeepFlow-HPC",
-    image: IPhone,
+    image: hpc,
   },
   {
     company: "CHATBOT",
     year: "2025",
     title: "Ai chatbot",
     results: [
-      { title: "Automated 80% of task scheduling processes" },
-      { title: "Improved team productivity by 50%" },
-      { title: "Enhanced user experience with intuitive UI" },
+      { title: "AI-Powered Customer Support Chatbot with Next.js" },
+      { title: "Built a smart chatbot using GPT APIs to automate FAQs and live support" },
+      { title: "Tech Stack: Next.js, OpenAI GPT API, Node.js" },
     ],
     link: "https://github.com/ItsYash4u/nextjs-ai-chatbot",
-    image: TaskmasterPro,
+    image: chatbot,
   },
 ];
 

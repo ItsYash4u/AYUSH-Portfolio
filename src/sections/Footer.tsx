@@ -19,7 +19,7 @@ const footerLinks = [
   },
   {
     title: "YouTube",
-    href: "https://www.youtube.com/@shekhawat4u",
+    href: "https://www.youtube.com/@starmockai47",
   },
 ];
 

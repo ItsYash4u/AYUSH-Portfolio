@@ -13,31 +13,31 @@ const testimonials = [
   {
     name: "XYZ Turner",
     position: "Marketing Manager @ TechStartups",
-    text: "Harshvardhan was instrumental in transforming our website into a powerful marketing tool. His attention to detail and ability to understand our brand is exceptional. We're thrilled with the results!",
+    text: "Ayush was instrumental in transforming our website into a powerful marketing tool. His attention to detail and ability to understand our brand is exceptional. We're thrilled with the results!",
     avatar: memojiAvatar1,
   },
   {
     name: "Olivia Green",
     position: "Head of Design @ GreenLeaf",
-    text: "Working with Harshvardhan was a pleasure. His expertise in frontend development brought our designs to life in a way we never imagined. The website has exceeded our expectations.",
+    text: "Working with Ayush was a pleasure. His expertise in frontend development brought our designs to life in a way we never imagined. The website has exceeded our expectations.",
     avatar: memojiAvatar2,
   },
   {
     name: "Daniel White",
     position: "CEO @ InnovateCo",
-    text: "Harshvardhan's ability to create seamless user experiences is unmatched. Our website has seen a significant increase in conversions since launching the new design. We couldn't be happier.",
+    text: "Ayush's ability to create seamless user experiences is unmatched. Our website has seen a significant increase in conversions since launching the new design. We couldn't be happier.",
     avatar: memojiAvatar3,
   },
   {
     name: "Emily Carter",
     position: "Product Manager @ GlobalTech",
-    text: "Harshvardhan is a true frontend wizard. He took our complex product and transformed it into an intuitive and engaging user interface. We're already seeing positive feedback from our customers.",
+    text: "Ayush is a true frontend wizard. He took our complex product and transformed it into an intuitive and engaging user interface. We're already seeing positive feedback from our customers.",
     avatar: memojiAvatar4,
   },
   {
     name: "Michael Brown",
     position: "Director of IT @ MegaCorp",
-    text: "Harshvardhan's work on our website has been nothing short of exceptional. He's a talented developer who is also a great communicator. We highly recommend him.",
+    text: "Ayush's work on our website has been nothing short of exceptional. He's a talented developer who is also a great communicator. We highly recommend him.",
     avatar: memojiAvatar5,
   },
 ];
